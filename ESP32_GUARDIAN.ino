@@ -137,7 +137,7 @@ httpd_handle_t stream_httpd = NULL;
 static const char PROGMEM INDEX_HTML[] = R"rawliteral(
 <html>
   <head>
-    <title>Disaster Management Robot</title>
+    <title>esp32 guardian:autonomous military survelliance robot with metal detector</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       body { font-family: Arial; text-align: center; margin:0px auto; padding-top: 30px;}
